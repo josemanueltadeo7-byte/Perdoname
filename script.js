@@ -58,7 +58,7 @@ function generateMessage(noCount) {
     "No",
     "Estás segura?",
     "Por favorcito",
-    "Perdóname chica anda",
+    "Perdóname bebé anda",
     "No seas mala",
     "Yo no lo vuelvo a hacer...",
     "Discúlpame pls",
